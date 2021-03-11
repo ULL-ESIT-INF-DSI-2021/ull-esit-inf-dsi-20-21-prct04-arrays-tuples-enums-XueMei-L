@@ -1,0 +1,12 @@
+declare function decodeResistor(...params: string[]): string;
+declare let color1: string;
+declare let color2: string;
+declare let color3: string;
+declare let color4: string;
+declare let color5: string;
+declare let color6: string;
+declare let color7: string;
+declare let color8: string;
+declare let color9: string;
+declare let color10: string;
+declare let resultEj1: string;
