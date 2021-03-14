@@ -43,7 +43,7 @@ En la implementación la función `decodeResistor` pasé un array de tipo `strin
 
 **Resultado de ejecutar el ejercicio-1.js**
 
-![image-20210314193236719](C:\Users\linyouzi\AppData\Roaming\Typora\typora-user-images\image-20210314193236719.png)
+![image-20210314193236719](imagenes/image-20210314193236719.png)
 
 
 
@@ -55,7 +55,7 @@ En la implementación de la función `meshArray` lo que hace recorrer el array d
 
 **Resultado de ejecutar el ejercicio-2.js**
 
-![image-20210314201327663](C:\Users\linyouzi\AppData\Roaming\Typora\typora-user-images\image-20210314201327663.png)
+![image-20210314201327663](imagenes/image-20210314201327663.png)
 
 
 
@@ -70,7 +70,7 @@ En la implementación de la función `meanAndConcatenate` solo pasé como parám
 
 **Resultado de ejecutar el ejercicio-3.js**
 
-![image-20210314193114726](C:\Users\linyouzi\AppData\Roaming\Typora\typora-user-images\image-20210314193114726.png)
+![image-20210314193114726](imagenes/image-20210314193114726.png)
 
 
 
