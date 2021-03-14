@@ -13,6 +13,7 @@ function mediaFilter(imagen: number[][],rol: number, col: number):number[]{
                 }else if( (j+1) > col){
                     sum += imagen[i-1][j] + imagen[i+1][j];
                 }
+                //No terminado
             }
             //console.log(`${imagen[i][j]}`);
         }

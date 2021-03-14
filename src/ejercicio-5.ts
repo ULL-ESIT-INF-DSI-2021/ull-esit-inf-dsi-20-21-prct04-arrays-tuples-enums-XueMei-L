@@ -1,11 +1,16 @@
-function multiplyAll(array:number[]):any{
+/**
+ * _A array multiple with a number_
+ * @param array: array containing multiple numbers
+ * @returns a new array where the result is array1 multiple with 3
+ */
 
+export function multiplyAll(array:number[]) {
     for(let i = 0; i < array.length; i++){
         result(array[i]);
     }
 }
 
-function result(num:number):number[]{
+export function result(num:number):number[]{
     let num_2:number = 3;
     let result = num * num_2;
     array2.push(result);

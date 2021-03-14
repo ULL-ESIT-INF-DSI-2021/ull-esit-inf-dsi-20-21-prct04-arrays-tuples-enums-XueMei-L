@@ -1,3 +1,14 @@
+"use strict";
+/**
+ * _from point A to point B in a defined world_
+ * @param rol rol to build world
+ * @param col col to build world
+ * @param initP starting point where the police is located
+ * @param endP  ending point where the police have to go
+ * @returns array that stores all steps
+ */
+Object.defineProperty(exports, "__esModule", { value: true });
+exports.agent = void 0;
 function agent(rol, col, initP, endP) {
     let map;
     let x = 0;
@@ -32,6 +43,7 @@ function agent(rol, col, initP, endP) {
     }
     return resultEj8;
 }
+exports.agent = agent;
 let initialPoint = [1, 3];
 let endPoint = [-2, 5];
 let sizeMapRol = 10;

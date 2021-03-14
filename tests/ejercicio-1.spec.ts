@@ -1,16 +1,13 @@
-/*import "mocha";
+import "mocha";
 import {expect} from "chai";
-import {add} from "../src/ejercicio-1";
+import {decodeResistor} from "../src/ejercicio-1";
 
-describe("add function tests", () => {
-    it("add(1,8) returns value 9", () => {
-        expect(add(1, 8)).to.be.equal(9);
+describe("Ejercicio 01: prueba", () => {
+    it("decodeResistor(`negro`, `azul`) returns value 06", () => {
+      expect(decodeResistor("negro","azul")).to.be.equal("06");
+    });
+
+    it("decodeResistor(`marron`, `violeta`) returns value 17", () => {
+      expect(decodeResistor("marron","violeta")).to.be.equal("17");
     });
 });
-
-describe("add function tests", () => {
-    it("add(-1,8) returns value 7", () => {
-        expect(add(-1, 8)).to.be.equal(7);
-    });
-});
-*/

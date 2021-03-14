@@ -1,3 +1,9 @@
+/**
+ * _Find out if a string is palindrome or not_
+ * @param cadena array containing multiple words
+ * @returns chain length or -1
+ */
+
 function palindromeCount(cadena: string[]):number{
     let word: string[] = [];
     let word2: string[] = [];

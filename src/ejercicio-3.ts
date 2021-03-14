@@ -1,4 +1,10 @@
-function meanAndConcatenate(arrayEj3: string[]):string[]{
+/**
+ * _find all the numbers that are in an array and a string that is formed by all the letters of the array_
+ * @param arrayEj3  array containing multiple numbers and mixed letters
+ * @returns array containing the mean found of all numbers and a string found in arrayEj3
+ */
+
+export function meanAndConcatenate(arrayEj3: string[]):string[]{
     let sum: number = 0;
     let count: number = 0;
     let newArrayEje3: string[] = [];
@@ -15,7 +21,6 @@ function meanAndConcatenate(arrayEj3: string[]):string[]{
     sum = sum /count
     let media: string = sum.toString();
     resultEj3.push(media);
-    console.log(`${newstring}`);
     resultEj3.push(newstring);
     
     return resultEj3;
@@ -23,6 +28,10 @@ function meanAndConcatenate(arrayEj3: string[]):string[]{
 
 
 let arrayEj3: string[] = ["u", "6", "d", "1", "i", "w", "6", "s", "t", "4", "a", "6", "g", "1", "2", "w", "8", "o", "2", "0"];
+let arrayEj31: string[] = ["l", "1", "x", "9", "m", "u", "9", "9", "l", "20", "l", "21",];
 
 console.log(`before: [${arrayEj3}]
-after: [${meanAndConcatenate(arrayEj3)}]`);
+after:  [${meanAndConcatenate(arrayEj3)}]`);
+
+console.log(`before: [${arrayEj31}]
+after:  [${meanAndConcatenate(arrayEj31)}]`);
