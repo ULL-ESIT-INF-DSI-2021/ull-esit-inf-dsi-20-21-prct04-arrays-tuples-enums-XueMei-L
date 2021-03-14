@@ -105,7 +105,7 @@ Un punto describe una posición determinada respecto a un sistema de coordenadas
 **1. Sumar dos puntos coordenada a coordenada.**
 **2. Restar dos puntos coordenada a coordenada.**
 **3. Calcular el producto de un punto por un número.**
-**4. Calcular la distancia euclídea entre dos puntos.** [Euclidean Distance][https://en.wikipedia.org/wiki/Euclidean_distance#:~:text=In%20mathematics%2C%20the%20Euclidean%20distance,being%20called%20the%20Pythagorean%20distance.](https://en.wikipedia.org/wiki/Euclidean_distance#:~:text=In mathematics%2C the Euclidean distance,being called the Pythagorean distance.)
+**4. Calcular la distancia euclídea entre dos puntos.** [Euclidean_Distance](https://en.wikipedia.org/wiki/Euclidean_distance#:~:text=In%20mathematics%2C%20the%20Euclidean%20distance,being%20called%20the%20Pythagorean%20distance.)
 
 En la implementación de la función `add`, hice que recorre las posiciones `[x,y]` del punto 1, y `[x,y]` del punto 2, y luego se suma los valores [x, y] en un array de tipo numérico. En el caso de la función `subtraction` es lo mismo, pero haciendo la resta entre [x, y].
 
