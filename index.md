@@ -43,7 +43,7 @@ En la implementación la función `decodeResistor` pasé un array de tipo string
 
 **Resultado de ejecutar el ejercicio-1.js**
 
-![image-20210314193236719](main/imagenes/image-20210314193236719.png)
+![image-20210314193236719](imagenes/image-20210314193236719.png)
 
 
 
