@@ -39,7 +39,7 @@ La salida debería ser la combinación de dos números que representan los color
 **Por ejemplo: (Negro y marrón) 
 La salida será: 01**
 
-En la implementación la función `decodeResistor` pasé un array de tipo `string[]` como parámetro y recorre dicho array para encontrar el valor correspondiente de cada color, eso si, aunque la función recibe más parámetro de color, solo devuelve el resultado con 2 dígitos.
+En la implementación la función `decodeResistor` pasé un array de tipo string[] como parámetro y recorre dicho array para encontrar el valor correspondiente de cada color, eso si, aunque la función recibe más parámetro de color, solo devuelve el resultado con 2 dígitos.
 
 **Resultado de ejecutar el ejercicio-1.js**
 
@@ -66,7 +66,7 @@ Dado un array, tal que dicho array contiene una serie de números y letras, la f
 > - La media de los valores numéricos que encuentra en el array
 > - Una cadena resultado de la concatenación de caracteres del array recibido.
 
-En la implementación de la función `meanAndConcatenate` solo pasé como parámetro un ``string[]`, recorrer el array para encontrar por un lado, números, hace suma de todos los números y la media entre ellos y el resultado le meto en el `newArrayEje3`, y por otro lado, encontrar todas las letras, después forma un `string` para metre en el `newArrayEje3`. 
+En la implementación de la función `meanAndConcatenate` solo pasé como parámetro un string[], el array para encontrar por un lado, números, hace suma de todos los números y la media entre ellos y el resultado le meto en el `newArrayEje3`, y por otro lado, encontrar todas las letras, después forma un `string` para metre en el `newArrayEje3`. 
 
 **Resultado de ejecutar el ejercicio-3.js**
 
