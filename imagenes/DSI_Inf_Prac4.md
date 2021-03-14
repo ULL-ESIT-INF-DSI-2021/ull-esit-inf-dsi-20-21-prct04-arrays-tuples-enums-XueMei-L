@@ -43,7 +43,7 @@ En la implementación la función `decodeResistor` pasé un array de tipo `strin
 
 **Resultado de ejecutar el ejercicio-1.js**
 
-![image-20210314193236719](C:\Users\linyouzi\AppData\Roaming\Typora\typora-user-images\image-20210314193236719.png)
+![image-20210314193236719](imagenes/image-20210314193236719.png)
 
 
 
@@ -55,7 +55,7 @@ En la implementación de la función `meshArray` lo que hace recorrer el array d
 
 **Resultado de ejecutar el ejercicio-2.js**
 
-![image-20210314201327663](C:\Users\linyouzi\AppData\Roaming\Typora\typora-user-images\image-20210314201327663.png)
+![image-20210314201327663](imagenes/image-20210314201327663.png)
 
 
 
@@ -70,7 +70,7 @@ En la implementación de la función `meanAndConcatenate` solo pasé como parám
 
 **Resultado de ejecutar el ejercicio-3.js**
 
-![image-20210314193114726](C:\Users\linyouzi\AppData\Roaming\Typora\typora-user-images\image-20210314193114726.png)
+![image-20210314193114726](imagenes/image-20210314193114726.png)
 
 
 
@@ -82,7 +82,7 @@ En la implementación de la función `moveZeros`, simplemente recorrer todas las
 
 **Resultado de ejecutar el ejercicio-4.js**
 
-![image-20210314193154210](C:\Users\linyouzi\AppData\Roaming\Typora\typora-user-images\image-20210314193154210.png)
+![image-20210314193154210](imagenes/image-20210314193154210.png)
 
 
 
@@ -94,7 +94,7 @@ En la implementación de la función `multiplyAll` recorre todos las posiciones 
 
 **Resultado de ejecutar el ejercicio-5.js**
 
-![image-20210314193144460](C:\Users\linyouzi\AppData\Roaming\Typora\typora-user-images\image-20210314193144460.png)
+![image-20210314193144460](imagenes/image-20210314193144460.png)
 
 
 
@@ -113,11 +113,11 @@ En la función `product`, recorrí el array, cada posición del array multiplica
 
 Por último, en la función `euclideanDistance`, simplemente aplicando la formula siguiente para conseguir la distancia euclidiana.
 
-![image-20210314190718093](C:\Users\linyouzi\AppData\Roaming\Typora\typora-user-images\image-20210314190718093.png)
+![image-20210314190718093](imagenes/image-20210314190718093.png)
 
 **Resultado de ejecutar el ejercicio-6.js**
 
-![image-20210314193258570](C:\Users\linyouzi\AppData\Roaming\Typora\typora-user-images\image-20210314193258570.png)
+![image-20210314193258570](imagenes/image-20210314193258570.png)
 
 
 
@@ -125,11 +125,11 @@ Por último, en la función `euclideanDistance`, simplemente aplicando la formul
 
 En este ejercicio, simplemente basando el ejercicio anterior, modificamos en vez de bi dimensiones, a tri dimensiones o más dimensiones que queremos. La implementación de funciones es similar que el ejercicio anterior.
 
-![image-20210314192258580](C:\Users\linyouzi\AppData\Roaming\Typora\typora-user-images\image-20210314192258580.png)
+![image-20210314192258580](imagenes/image-20210314192258580.png)
 
 **Resultado de ejecutar el ejercicio-7.js**
 
-![image-20210314193310096](C:\Users\linyouzi\AppData\Roaming\Typora\typora-user-images\image-20210314193310096.png)
+![image-20210314193310096](imagenes/image-20210314193310096.png)
 
 
 
@@ -141,7 +141,7 @@ En la implementación de la `agente`, lo que hice fue averiguar si ha llegar al 
 
 **Resultado de ejecutar el ejercicio-8.js**
 
-![image-20210314193328450](C:\Users\linyouzi\AppData\Roaming\Typora\typora-user-images\image-20210314193328450.png)
+![image-20210314193328450](imagenes/image-20210314193328450.png)
 
 # 4. TypeDoc
 
@@ -165,13 +165,13 @@ npm run doc
 
 así ya obtenemos todos los códigos fuentes en formato `.html`.
 
-![image-20210314201622235](C:\Users\linyouzi\AppData\Roaming\Typora\typora-user-images\image-20210314201622235.png)
+![image-20210314201622235](imagenes/image-20210314201622235.png)
 
 
 
 Además,  para editar nuestro código fuente también es muy útil, ya que nos define cada parámetro, y que hace la función, especificando las funciones y parámetros, eso nos ayuda a la hora de implementar el proyecto.
 
-![image-20210314202131702](C:\Users\linyouzi\AppData\Roaming\Typora\typora-user-images\image-20210314202131702.png)
+![image-20210314202131702](imagenes/image-20210314202131702.png)
 
 
 
@@ -179,7 +179,7 @@ Además,  para editar nuestro código fuente también es muy útil, ya que nos d
 
 Como a partir de esa practica, vamos a usar el funcionamiento de Mocha y Chai para trabajar con TypeScipt, entonces voy a explicar previamente cómo funciona Mocha y Chai.
 
-![image-20210314200928578](C:\Users\linyouzi\AppData\Roaming\Typora\typora-user-images\image-20210314200928578.png)
+![image-20210314200928578](imagenes/image-20210314200928578.png)
 
 Como está indicando la foto, el paso 1 y el paso 2 son los dos pasos necesarios para importar el funcionamiento de **Mocha y Chai** y la parte que está dentro del cuadrado rojo, son las pruebas de mi función.
 
@@ -187,9 +187,9 @@ Como está indicando la foto, el paso 1 y el paso 2 son los dos pasos necesarios
 
 ​													**Las siguientes imágenes son demostración de los resultados**
 
-![image-20210314200649959](C:\Users\linyouzi\AppData\Roaming\Typora\typora-user-images\image-20210314200649959.png)
+![image-20210314200649959](imagenes/image-20210314200649959.png)
 
-![image-20210314200737913](C:\Users\linyouzi\AppData\Roaming\Typora\typora-user-images\image-20210314200737913.png)
+![image-20210314200737913](imagenes/image-20210314200737913.png)
 
 
 
